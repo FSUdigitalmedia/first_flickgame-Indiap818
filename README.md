@@ -1,6 +1,6 @@
-# Your Flick Game Title Goes Here
+# Maze game
 
 ## Description
 
-Description of the game goes here.
+Little maze game.
 
